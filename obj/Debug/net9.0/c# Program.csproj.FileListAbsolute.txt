@@ -1,0 +1,14 @@
+/Users/admin/Desktop/c# Program/bin/Debug/net9.0/c# Program
+/Users/admin/Desktop/c# Program/bin/Debug/net9.0/c# Program.deps.json
+/Users/admin/Desktop/c# Program/bin/Debug/net9.0/c# Program.runtimeconfig.json
+/Users/admin/Desktop/c# Program/bin/Debug/net9.0/c# Program.dll
+/Users/admin/Desktop/c# Program/bin/Debug/net9.0/c# Program.pdb
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/c# Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/c# Program.AssemblyInfoInputs.cache
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/c# Program.AssemblyInfo.cs
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/c# Program.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/c# Program.dll
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/refint/c# Program.dll
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/c# Program.pdb
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/c# Program.genruntimeconfig.cache
+/Users/admin/Desktop/c# Program/obj/Debug/net9.0/ref/c# Program.dll
